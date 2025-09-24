@@ -1,0 +1,3 @@
+[submodule "third_party/SplaTAM"]
+	path = third_party/SplaTAM
+	url = https://github.com/spla-tam/SplaTAM
